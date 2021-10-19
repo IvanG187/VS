@@ -1,4 +1,9 @@
-
+p {
+    color: chartreuse;
+    background: darkblue;
+    font-weight: bold;
+    text-align: center;
+}
 #myContainer {
   width: 400px;
   height: 400px;
